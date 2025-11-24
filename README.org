@@ -1,3 +1,5 @@
+## NOTE: These instructions have been created by Tonybtw. Any edits I make to this will be separate and likely placed into an additional README when I finish editing this.
+
 #+TITLE: DWL Window Manager Setup
 #+AUTHOR: Tony, btw
 #+DATE: 9-21-2025
